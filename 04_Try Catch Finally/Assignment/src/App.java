@@ -6,7 +6,7 @@ public class App {
         System.out.println("EnterNumber: ");
         int firstNumber = input.nextInt();
         System.out.println("Enter another number: ");
-        int secondNumber = 1;
+        int secondNumber = input.nextInt();
 
         int quotient = 0;
         try{
@@ -14,7 +14,9 @@ public class App {
         } catch (ArithmeticException ex) {
             System.out.println(ex.getMessage());
             System.out.println("Defalut answer of 0 used for quotient");
-
+        }finally {
+            System.out.println(String.format("The answer from division is %s", quotient));
         }
+        input.close();
     }
 }
