@@ -1,0 +1,4 @@
+Create an exception class called 
+IntegerException
+Then modify our example code from yesterday to handle 
+this particular exception with a catch block
