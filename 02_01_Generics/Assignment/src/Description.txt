@@ -1,0 +1,2 @@
+Use the example from Generics and add a Property for Integers
+a Property for Booleans.  Make a few examples in App.java
