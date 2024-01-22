@@ -1,0 +1,2 @@
+Create an interface called Equatable<T> with one method called equals
+Make Property<T> implement just like I did with Comparable<T>  
