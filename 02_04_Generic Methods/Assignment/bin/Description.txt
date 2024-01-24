@@ -1,0 +1,5 @@
+Bring in the Property<T> class and the Inequality interface
+
+Add more methods to the Inequality interface.  
+Add IsNotEqualTo, GreaterThanOrEqualTo, LessThanOrEqualTo
+Use logical or || for the GreaterThanOrEqualTo and LessThanOrEqualTo
