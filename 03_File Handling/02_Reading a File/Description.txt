@@ -1,0 +1,8 @@
+Create a file.  called file.text
+
+Fill it with some text.   (3-5 lines)
+
+Read all lines from that file in code
+
+print each line from that file to the terminal/console
+
