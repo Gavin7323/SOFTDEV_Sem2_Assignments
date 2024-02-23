@@ -1,0 +1,3 @@
+Create a DoubleProperty and a StringProperty similar to the Integer property from yesterday.  
+
+Create a closure for Double property in App.java and one for StringProperty
