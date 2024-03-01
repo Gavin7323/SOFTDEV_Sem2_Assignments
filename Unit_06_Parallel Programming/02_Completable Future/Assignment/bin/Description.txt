@@ -1,0 +1,3 @@
+Create a completable future that supplies a random number using Math.random
+
+Then 

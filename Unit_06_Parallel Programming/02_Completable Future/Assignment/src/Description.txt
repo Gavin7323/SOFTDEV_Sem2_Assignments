@@ -1,0 +1,3 @@
+Create a completable future that supplies a random number using Math.random
+
+Then create a completable future that takes that random number and prints its double.
